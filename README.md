@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mariam-Garuba
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Analysis and Machine Learning Engineering at Udacity
-- 💞️ I’m looking to collaborate with Professionals
-- 📫 How to reach me ...
+- 🌱 I’m currently enrolled Udacity Data Analyst and Machine Learning Engineering Nanodegree Program.
+- 💞️ I’m looking to connect with like minds
+- 📫 How to reach me ... https://www.linkedin.com/in/mariam-garuba/
 
 <!---
 Mariam-Garuba/Mariam-Garuba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
